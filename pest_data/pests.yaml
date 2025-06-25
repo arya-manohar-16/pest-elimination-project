@@ -1,0 +1,10 @@
+path: pest_data
+train: images/train
+val: images/val
+
+names:
+  0: aphid
+  1: whitefly
+  2: bollworm
+  3: thrip
+  4: mite
